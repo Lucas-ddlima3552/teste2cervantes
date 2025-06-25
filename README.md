@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Descrição
 
 Aplicação desktop desenvolvida em Flutter que realiza o cadastro de clientes utilizando banco de dados SQLite.
